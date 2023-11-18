@@ -1,4 +1,4 @@
 # Portfolio
 This is my first Git Repository
 <br/>
-Author  - Shrikant Bargal
+Author  - Shrikant Bargal(Front end Developer)
